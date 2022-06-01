@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PracticaPOO.Leche">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Leche.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaPOO.Clases.Camión">
+    <Position X="3.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Camión.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaPOO.CentroAcopio" Collapsed="true">
+    <Position X="22.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAhEAAAAAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Clases\CentroAcopio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaPOO.Cooperativa" Collapsed="true">
+    <Position X="24.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABACAAAA=</HashCode>
+      <FileName>Clases\Cooperativa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaPOO.Clases.FlotillaCamiones" Collapsed="true">
+    <Position X="26.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\FlotillaCamiones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaPOO.Fruta">
+    <Position X="18" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Clases\Fruta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaPOO.Granja">
+    <Position X="6.5" Y="7.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAABgAAAAAAAAIAAAAAAAAAAAIQ=</HashCode>
+      <FileName>Clases\Granja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaPOO.Grano">
+    <Position X="20.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Clases\Grano.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaPOO.Lechería" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Lechería.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaPOO.Legumbre">
+    <Position X="15.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Clases\Legumbre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaPOO.Lote" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAABAAAAAAAAAAAAAACAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Lote.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PracticaPOO.ProdAnimal">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Clases\ProdAnimal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaPOO.Producto">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Clases\Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaPOO.ProdVegetal">
+    <Position X="17" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Clases\ProdVegetal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaPOO.Semilla">
+    <Position X="13.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Clases\Semilla.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaPOO.Clases.Transporte">
+    <Position X="2.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAABAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Clases\Transporte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaPOO.Clases.Tren">
+    <Position X="1.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Clases\Tren.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaPOO.Huevos">
+    <Position X="4.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Leche.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaPOO.Pollo">
+    <Position X="9" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Leche.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaPOO.Res">
+    <Position X="11.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Leche.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticaPOO.Cerdo">
+    <Position X="6.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Leche.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="PracticaPOO.IProductor" Collapsed="true">
+    <Position X="22.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaz\IProductor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="PracticaPOO.Enums.Fruta" Collapsed="true">
+    <Position X="24.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAABAEAAAEAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\Fruta.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PracticaPOO.Enums.Grano" Collapsed="true">
+    <Position X="26.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Enums\Grano.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PracticaPOO.Enums.Legumbre" Collapsed="true">
+    <Position X="22.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAIAAAAAAAIAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Enums\Legumbre.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PracticaPOO.Enums.ProdAnimal" Collapsed="true">
+    <Position X="24.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABACAAAAkAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\ProdAnimal.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PracticaPOO.Enums.Semilla" Collapsed="true">
+    <Position X="26.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAIAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\Semilla.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PracticaPOO.Enums.Fabrica" Collapsed="true">
+    <Position X="22.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAgAAAAABAAAAAAAAAAAAAQAAAAAAAACAA=</HashCode>
+      <FileName>Enums\Fabrica.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PracticaPOO.Enums.TipoProducto" Collapsed="true">
+    <Position X="22.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABACAAAAkAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\TipoProducto.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PracticaPOO.Enums.TipoTransporte" Collapsed="true">
+    <Position X="24.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\TipoTransporte.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

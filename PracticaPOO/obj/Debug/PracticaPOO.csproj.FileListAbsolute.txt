@@ -1,0 +1,3 @@
+C:\Users\rlezama\Desktop\PracticaPOO\obj\Debug\PracticaPOO.csproj.AssemblyReference.cache
+C:\Users\rlezama\Desktop\PracticaPOO\obj\Debug\PracticaPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\rlezama\Desktop\PracticaPOO\obj\Debug\PracticaPOO.csproj.CoreCompileInputs.cache
